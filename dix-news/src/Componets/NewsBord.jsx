@@ -31,23 +31,7 @@ const NewsBord = ({ category }) => {
           );
         })}
       </div>
-      <footer>
-        <div
-          className="text-center p-3 bg-body-tertiary text-light"
-          data-bs-theme="dark"
-        >
-          © 2024 Copyright:
-          <span>
-            {" "}
-            <a
-              className="text-light font-weight-bold"
-              href="https://github.com/thakordixit567" target="_blank"
-            >
-              Dixit Code
-            </a>
-          </span>
-        </div>
-      </footer>
+      
     </div>
   );
 };
