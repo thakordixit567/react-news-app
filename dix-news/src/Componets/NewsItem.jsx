@@ -16,7 +16,7 @@ const NewsItem = ({ title, description, src, url }) => {
       <div className="card-body">
         <h5 className="card-title">{title.slice(0, 50)}</h5>
         <p className="card-text fs-5">
-          {description ? description.slice(0, 90) : "No More"}
+          {description?description.slice(0, 90) : "No More"}
         </p>
         <a href={url} className="btn btn-primary">
           Read More

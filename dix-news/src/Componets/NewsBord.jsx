@@ -19,14 +19,14 @@ const NewsBord = ({ category }) => {
       </h3>
 
       <div>
-        {articles.map((news, index) => {
+        {articles?.map((news, index) => {
           return (
             <NewsItem
               key={index}
-              title={news.title}
-              description={news.description}
-              src={news.urlToImage}
-              url={news.url}
+              title={news?.title}
+              description={news?.description}
+              src={news?.urlToImage}
+              url={news?.url}
             />
           );
         })}

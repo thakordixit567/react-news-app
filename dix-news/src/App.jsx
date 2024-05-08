@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Navbar from "./Componets/Navbar";
 import NewsBord from "./Componets/NewsBord";
+import React from "react";
 
 const App = () => {
 
