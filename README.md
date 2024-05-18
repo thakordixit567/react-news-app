@@ -8,9 +8,9 @@ Using React Js, Bootstrap, HTML, News API
 
 ---------------------
 
-![image](https://github.com/thakordixit567/DIX-STORE/blob/master/DIX-STORE-PRO/src/DEMO/Screenshot%20(201).png)
 
-![image](https://github.com/thakordixit567/DIX-STORE/blob/master/DIX-STORE-PRO/src/DEMO/Screenshot%20(203).png)
+
+![image](https://github.com/thakordixit567/react-news-app/blob/master/dix-news/src/demo/Screenshot%202024-05-08%20120827.png)
 
 How to clone this peoject in your machine 
 
